@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 Hi, I’m Madison! 👋  
-I’m an upcoming **Product Manager with a Data Science background** passionate about creating innovative solutions that drive business impact. My expertise lies in using data to inform product strategy, improve customer experiences, and lead cross-functional teams toward success.
+I’m an upcoming **Product Manager with a Data Science background** passionate about creating innovative solutions that drive business impact, equality, inclusiveness, and user happiness. My expertise lies in using data to inform product strategy, improve customer experiences, and lead cross-functional teams toward success.
 
 I recently completed a **Product Management internship at Asurion**, where I spearheaded customer-facing initiatives, conducted market and competitive analysis, and contributed to key strategic decisions. I also have a strong foundation in **Python, SQL**, and various machine learning technologies, which I leverage to make data-driven decisions.
 
