@@ -17,7 +17,7 @@ I recently completed a **Product Management internship at Asurion**, where I spe
 - Agile & SCRUM Methodologies  
 - Cross-Functional Team Leadership
 
-**Fun Facts**
+**Fun Facts**:
 1. I play the trumpet.
 2. I played soccer for the majority of my life.
 3. My favorite musical movie is The Greatest Showman.
